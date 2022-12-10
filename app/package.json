@@ -20,7 +20,7 @@
     "discord-anti-spam-tr": "^0.7.4",
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "ffmpeg-binaries": "^4.0.0",
     "figlet": "^1.2.4",
